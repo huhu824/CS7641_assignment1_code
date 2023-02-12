@@ -14,6 +14,6 @@ I have attached mushroom data in this repo. Download and store it with Assignmen
 ### dataset 2: breast cancer dataset from sklearn
 
 
-## How to run and produce charts?
+## Run the code
 make sure agaricus_lepiota_data.csv and Assignment1_SL.ipynb are downloaded into the same directory.
 In the notebook, choose Kernel, and click Restart & Run All
